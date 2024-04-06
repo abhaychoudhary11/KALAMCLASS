@@ -1,3 +1,4 @@
+paint("ITC")
 print("COMPUTING")
 print("avantika")
 print("Kalam Class")
